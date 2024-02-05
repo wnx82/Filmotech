@@ -1,6 +1,6 @@
 ﻿namespace Filmotech.Entities
 {
-    public class Films
+    public class Film
     {
         public Guid? Id{ get; set; }
 
